@@ -3,9 +3,14 @@ SkynetClient
 
 Android library for connecting to cloudwu/skynet (A lightweight online game framework) 
 
+## Features
+
+* Sproto,Luasocket,Lepg,Crypt Libraries supported 
+* Full Lua5.2.3 support with full Java type-safety
+* All Lua Standard Libraries are supported
+
 
 ## Requirements
-
 
 * [Android SDK](http://developer.android.com/sdk/index.html)
 * [Android NDK](http://developer.android.com/sdk/ndk/index.html)
