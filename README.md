@@ -16,9 +16,9 @@ Android library for connecting to cloudwu/skynet (A lightweight online game fram
 
 ## Libraries Used
 
-[JNLua](https://code.google.com/p/jnlua/ )
-[sproto](https://github.com/cloudwu/sproto )
-[luasocket](https://github.com/diegonehab/luasocket )  
+* [JNLua](https://code.google.com/p/jnlua/ )
+* [sproto](https://github.com/cloudwu/sproto )
+* [luasocket](https://github.com/diegonehab/luasocket )  
 
 
 ## License
